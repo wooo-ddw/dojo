@@ -13,4 +13,4 @@ All mail sent to this address that does not relate to security problems in the d
 
 
 
-The mailing address is: [dylan@dojotoolkit.org]
+The mailing address is: [dojo-security@dojotoolkit.org]
